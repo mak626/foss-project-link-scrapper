@@ -1,0 +1,1040 @@
+[
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Helios",
+        "title": "Helios",
+        "description": "The 6 degree-of-freedom rocket model is a simulation that accurately predicts the trajectory, apogee, and other parameters of a rocket during flight. It takes into account atmospheric conditions, turb",
+        "likes": 44
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=VizhiTamil",
+        "title": "VizhiTamil",
+        "description": "The Vizhi Tamil App is an open source android application that is incredibly useful for individuals who are visually impaired. Developed with Kotlin, this app utilizes the trained Tesseract model and ",
+        "likes": 20
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Spell4Wiki",
+        "title": "Spell4Wiki",
+        "description": "Spell4Wiki > Spell For Wiktionary(Wikimedia Commons).\nSpell4Wiki is mobile app for upload audio files to Wikimedia commons and Wiktionary based multilingual dictionary.\n\n",
+        "likes": 18
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Wiki-Bulky",
+        "title": "Wiki-Bulky",
+        "description": "Wiki-Bulky --> Bulk download of media files from Wikimedia commons & Bulk upload of words with meaning to Wikitionary.\n",
+        "likes": 13
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=SpotWikiEdit",
+        "title": "SpotWikiEdit",
+        "description": "An firefox addon for a wikipedia that enables the wiki user to edit the wikipage without going into editmode. They can spot a mistake in UI and double click on it and edit it. ",
+        "likes": 13
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Quick-Wiktionary",
+        "title": "Quick-Wiktionary",
+        "description": "Getting word meaning from wkitionary, while selecting the word in browser for any website.",
+        "likes": 10
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Carbo",
+        "title": "Carbo",
+        "description": "Our application is to popularize and promote the system of carbon credits to the common people as a way of income along with sustainable development.",
+        "likes": 6
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=PODCLI",
+        "title": "PODCLI",
+        "description": "PodCli is a open source and free software that delivers short and crisp summaries of lengthy and boring videos and audios of Podcast",
+        "likes": 6
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=WRAP",
+        "title": "WRAP",
+        "description": "WRAP features the best waste management system for rapidly growing cities. An online platform for e-waste buyers, sellers and all other kinds of waste management industries. WRAP mainly serves as a pl",
+        "likes": 6
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=SWIM",
+        "title": "SWIM",
+        "description": "An emotional indicator to music.",
+        "likes": 6
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=FossFolio",
+        "title": "FossFolio",
+        "description": "FossFolio is a web application that lets you host events and hackathons and lets users buy tickets for your events. we provide a dashboard to the event host to access participants' info. in our beta v",
+        "likes": 5
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=DISS-LEXIA",
+        "title": "DISS-LEXIA",
+        "description": "Helping people suffering from Dyslexia to read websites easily with an open source tool",
+        "likes": 5
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Weather%20Predictor",
+        "title": "Weather Predictor",
+        "description": "We will be creating a website/webapp by integrating ML algorithms which analyses the past data of weather across India and predicts the future weather. Furthermore, this model can also predict humidit",
+        "likes": 5
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=DNArchery",
+        "title": "DNArchery",
+        "description": "A free and open-source DNA Sequencing/Visualization software for bioinformatics research.",
+        "likes": 5
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Project%20UniNet",
+        "title": "Project UniNet",
+        "description": "UniNet is a platform for College students to showcase their skills and collaborate with other students.",
+        "likes": 5
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Mon%20Events",
+        "title": "Mon Events",
+        "description": "A platform to host meetups, hackathons and conferences",
+        "likes": 5
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Chat%20Neuron",
+        "title": "Chat Neuron",
+        "description": "An Application and an AI Library can able to train NLP Chatbot Model with own custome dataset. User or Developer can able to train the AI NLP chat bot Model by uploading their custome dataset.",
+        "likes": 4
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=CircuitVerse%20Improvements%20Project",
+        "title": "CircuitVerse Improvements Project",
+        "description": "This project contains minor and major improvements in CircuitVerse core repositories",
+        "likes": 4
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Seyali",
+        "title": "Seyali",
+        "description": "Computer vision is a highly booming technology where a lot of data are handled. As the data usage is too much there is a lack of data annotation/training tools. Our aim is to develop an opensource too",
+        "likes": 4
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Melos",
+        "title": "Melos",
+        "description": "An emotional indicator to music.",
+        "likes": 4
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=FIYOC",
+        "title": "FIYOC",
+        "description": "The objective of this project is to develop a system that can efficiently search for the best open source contributor based on the specific needs of the company. This will help the company to find the",
+        "likes": 4
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Shooting%20Words",
+        "title": "Shooting Words",
+        "description": "A Shooter Game which helps you learn Languages in a fun and engaging way. ",
+        "likes": 4
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Cheapify",
+        "title": "Cheapify",
+        "description": "\\*\\*An aggregator for aggregators!\\*\\*\n\nA web application to aggregate data from various e-commerce websites like amazon, flipkart, snapdeal, etc. and provide the user with the best price for the product",
+        "likes": 4
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=FURN%20X%20AR",
+        "title": "FURN X AR",
+        "description": "Preview furniture in real time, adjust size and placement, and explore endless design possibilities. Perfect for interior designers, architects, and anyone who loves to experiment with different desig",
+        "likes": 4
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Bon-Voyage",
+        "title": "Bon-Voyage",
+        "description": "Bon-Voyage allows users to compare the costs and travel times of buses, trains, and planes while moving from one location to another, thereby saving a tonne of time.",
+        "likes": 4
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Precio",
+        "title": "Precio",
+        "description": "Precio is a comprehensive application designed to assist modern farmers in optimizing their agricultural operations by incorporating precision farming practices. ",
+        "likes": 4
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=SafeChat",
+        "title": "SafeChat",
+        "description": "SafeChat is a open-source and secure chat app that prioritizes security in every aspect. It's easy to use and provides a platform for the secure exchange of confidential data.\n\nSafeChat provides a sec",
+        "likes": 4
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=PING-T",
+        "title": "PING-T",
+        "description": "An anti-spam and fraud detection technology, Similar to Truecaller, that identifies the bank-verified names of associated phone numbers in order to avoid spam and fraud.In contrast to Truecaller, wher",
+        "likes": 4
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Dypres",
+        "title": "Dypres",
+        "description": "Dypres allows presentations that are tailored to the specific needs of the audience, and that can be updated on the fly to ensure that the most relevant and up-to-date information is always being pres",
+        "likes": 4
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=MinutE",
+        "title": "MinutE",
+        "description": "An open-source software to maximize your time and minimize your effort by making time efficient schedules minute by minute for you:))\n\n",
+        "likes": 4
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=VisualIT",
+        "title": "VisualIT",
+        "description": "VisualIT is a web app for visualizing a bunch of different sorting algorithms like merge sort , bubble sort ,etc.\n",
+        "likes": 3
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Signo",
+        "title": "Signo",
+        "description": "About 70 million people in this world are unable to communicate with us properly due to their inability to speak or hear. What we sought to create was an innovative product that would be accessible to",
+        "likes": 3
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=CareerTrack",
+        "title": "CareerTrack",
+        "description": "CareerTrack is a web app designed to help users track and analyze job opportunities. Our app helps to improve productivity and saves time spent on regularly checking mails as well. Email is also track",
+        "likes": 3
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Helper",
+        "title": "Helper",
+        "description": "A structured website for efficient learning and an inbuilt Resume Builder. ",
+        "likes": 3
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=snipd",
+        "title": "snipd",
+        "description": "Notes, articles, and PDF files across multiple web pages, made easy to annotate and organize via a user-friendly extension (and friends)",
+        "likes": 3
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=MC%20Coffee%20Roosters%20website%20-A%20Cafe%20website%20that%20is%20open%20source",
+        "title": "MC Coffee Roosters website -A Cafe website that is open source",
+        "description": " Welcome to our open source cafe website. Our menu features fair trade coffee and locally sourced baked goods. \nThis Project is built using HTML and CSS only . ",
+        "likes": 3
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Form%20Ease",
+        "title": "Form Ease",
+        "description": "Let me introduce you to Form Ease, the best software for quickly building interesting quizzes! You can quickly turn your quiz questions from a sheet into a fully-featured quiz web app that users can a",
+        "likes": 3
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Task%20cruncher",
+        "title": "Task cruncher",
+        "description": "Command lines are no more boring to work on.User will get random Game suggestions when typing bored on linux/windows/mac",
+        "likes": 3
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Raven",
+        "title": "Raven",
+        "description": "Raven is a simple work messaging tool that is built using Frappe Framework and can be installed on any new or existing Frappe site (e.g. in addition to ERPNext or Gameplan). It is designed to help tea",
+        "likes": 3
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Project%20Xero",
+        "title": "Project Xero",
+        "description": "A tiny project that strives to create an impact",
+        "likes": 3
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=PiP%20cc%20and%20controls",
+        "title": "PiP cc and controls",
+        "description": "Browser extension for picture in picture mode ",
+        "likes": 3
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=WEATHER_APP",
+        "title": "WEATHER\\_APP",
+        "description": "well in this project were trying to improve and customize a simple weather forecast app",
+        "likes": 3
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=ThriftMe",
+        "title": "ThriftMe",
+        "description": "An open-source app for managing personal finances that uses gamification to encourage users to make savings and reach their financial goals.",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Docker%20Management%20Tool",
+        "title": "Docker Management Tool",
+        "description": "A tool used to manage docker containers like auto updating the images, creating the new version of the container etc with a simple UI eliminating the need to type the long commands in the terminal.",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Cherava",
+        "title": "Cherava",
+        "description": "Cherava, a web based scraper environment that focuses on simplicity.",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=OpenBeep",
+        "title": "OpenBeep",
+        "description": "anyone can create and deploy crypto currencies that can flow and also if needed they can add liquidity to their created supertokens.",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=VS%20Code%20Advanced%20Search",
+        "title": "VS Code Advanced Search",
+        "description": "This project will bring in advanced code search features to VS code. This includes a search query language and other capabilities. ",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=ArchX",
+        "title": "ArchX",
+        "description": "A platform where users can choose architects, compare them, get quotes, auction designs and buy fitments and other selected accessories.",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Netflix%20Landing%20page%20clone",
+        "title": "Netflix Landing page clone",
+        "description": "This is cloning page of netflix",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=DevDoctors-CARE",
+        "title": "DevDoctors-CARE",
+        "description": "DevDoctors is a project to save lives through code by contributing to the FOSSHack 3.0 Partner Project-Care \nCARE is a Digital Public Good enabling TeleICU & Decentralised Administration of Healthcare",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Agrow%20app",
+        "title": "Agrow app",
+        "description": "This app is created for farmers through which they can check their plant disease by clicking their plants leaf picture and get soln too,we have feature for farmer to sell their products without the in",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=WebClipper",
+        "title": "WebClipper",
+        "description": "Our bookmark extension project is designed to help users mark and save specific sections of web pages or articles for future reference. With our extension, users can easily highlight and bookmark impo",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=OpenAssistant%20-%20Safety%20Team",
+        "title": "OpenAssistant - Safety Team",
+        "description": "Contribute safety datasets to build a safety model for OpenAssistant(an open-source alternative to ChatGPT). The safety model will flag potentially malicious user requests and nudge OpenAssistant to r",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=KTU%20STUDY%20BUDDY",
+        "title": "KTU STUDY BUDDY",
+        "description": "A one stop educational hub for KTU scholars, with access to Syllabi, Class Notes, Previous Year Question Papers, Resources to develop our skill-set and SGPA calculator and Result Analyser.",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=AltFreeSource",
+        "title": "AltFreeSource",
+        "description": "A tool that helps the user in managing his/her finances, using Gmail API, fetching data from bank alert emails",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=WebCapture",
+        "title": "WebCapture",
+        "description": "This browser extension lets users to quickly segregate Youtube video notes, create timestamps.",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Resume%20Builder",
+        "title": "Resume Builder",
+        "description": "The Open Source Resume Analyzer project is a powerful tool designed to help recruiters and hiring managers analyze and assess job applicants' resumes quickly and easily.",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=The%20Exam%20Timekeeper",
+        "title": "The Exam Timekeeper",
+        "description": "This tool provides a visual representation of the time remaining until the next exam, helping aspirants plan their study schedules accordingly.",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=WebScope",
+        "title": "WebScope",
+        "description": "A free and open source web extension for users to filter out websites for content reading based on their preferred priorities.",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=MindBlog",
+        "title": "MindBlog",
+        "description": "Our mental health blog is designed using HTML, CSS, and other basic web development tools to create an engaging and user-friendly platform for individuals to share their thoughts and experiences relat",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=FixMyCity",
+        "title": "FixMyCity",
+        "description": "An Open Source mobile app for tracking and reporting civic issues such as potholes, streetlight outages, and garbage collection. This app allows users to take a photo of the issue and submit it along ",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Medical%20Report%20Analyser",
+        "title": "Medical Report Analyser",
+        "description": "A platform where the user can upload their urine and blood test results and can get suggestions on how to improve their health condition ",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Present.io",
+        "title": "Present.io",
+        "description": "A useful tool that allows you to know who is currently at your hostel. ",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Mario%20game",
+        "title": "Mario game",
+        "description": "Develop a user friendly block mario game using js and html canvas",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=alacarte",
+        "title": "alacarte",
+        "description": "A prototype for realtime peer to peer collaborative shopping cart.",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Lorem%20Ipsum",
+        "title": "Lorem Ipsum",
+        "description": "Freetube is an existing client for watching youtube videos without tracking from Google. We revamped it to look more modern.",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Dino%20Privacy%20Extention",
+        "title": "Dino Privacy Extention",
+        "description": "A Chrome extension for those who are tired of being followed around the internet like a lost puppy! This detects annoying trackers on websites and gives you the power to block them with just a click o",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=DigiBot%20-%20Your%20Personal%20AI%20Assistant",
+        "title": "DigiBot - Your Personal AI Assistant",
+        "description": "DigiBot - An AI assistant that interacts with its users via voice and text. DigiBot can answer questions on a wide variety of topics including literature, general knowledge and programming.\n\nAn early ",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Cactus",
+        "title": "Cactus",
+        "description": "Cactus is an open source backend with integrated database with data validation, entity/relationship builder and REST apis.\n",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=VoicePick",
+        "title": "VoicePick",
+        "description": "Its actually ColorPick\nAn Image colour segmention into different colours uisng watershed algorithm using Computer Vision and python",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=NetFuse",
+        "title": "NetFuse",
+        "description": "NetFuse is an self hosted solution to provide http and tcp tunelling with internal network management solution",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=weather",
+        "title": "weather",
+        "description": "gives weather info of a particular area",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=LearnAwesome.org",
+        "title": "LearnAwesome.org",
+        "description": "Google Maps for learning things on the web",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=JigSaw%20-%20Efficient%20Notes%20App",
+        "title": "JigSaw - Efficient Notes App",
+        "description": "This is a app that will allow you to effectively organise your whether its your academic notes or your work notes or just general notes",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Envixi",
+        "title": "Envixi",
+        "description": "Envixi(envixi.org) is aimed at helping businesses manage, monitor and improve their ESG performance.\n\n\n",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=mssautoplot%20GUI%20for%20MSS",
+        "title": "mssautoplot GUI for MSS",
+        "description": "A GUI for mssautoplot CLI would let users download hundreds of plots with configured parameters in a user-friendly manner.\n",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Bulla",
+        "title": "Bulla",
+        "description": "Personal Finance Manager: Single place to track all transactions (upload different types of transactions), Dashboard to view monthly expenses, to add/view notes from personal analysis, track action it",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=BotMate",
+        "title": "BotMate",
+        "description": "BotMate enables easy and speedy Telegram bot building using web based application, with custom JavaScript code writing using built-in functions for commands management, message sending, and more. It c",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Telegram%20Link%20Replacer%20Chrome%20Extension",
+        "title": "Telegram Link Replacer Chrome Extension",
+        "description": "Replaces 't.me' with 'telegram.me' in URLs Automatically .",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=XeroCodee",
+        "title": "XeroCodee",
+        "description": "With the help of the top \"no-code\" software development platform, XeroCodee, anyone can create, publish, and maintain their own software applications, tech products, or tools to address business issue",
+        "likes": 2
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Kukkee",
+        "title": "Kukkee",
+        "description": "Kukkee is a fast, free and open source meeting poll tool",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Snake%20game",
+        "title": "Snake game",
+        "description": "casual snake game ",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Bruno",
+        "title": "Bruno",
+        "description": "Local-first, Opensource IDE for Exploring and Testing API's",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=GG",
+        "title": "GG",
+        "description": "A bookmark management web app with sleek UI and cool features",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=waymond",
+        "title": "waymond",
+        "description": "Autoscale Anything Anywhere All at once!",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Surplus%20Food%20Management",
+        "title": "Surplus Food Management",
+        "description": "Whatever the occasion, from house parties to weddings, there may be times when the food was prepared in excess and we almost threw it away. Yet, did you know that 828 million people go to bed hungry?",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=GCP%20Local",
+        "title": "GCP Local",
+        "description": "Extract, rotate, and delete pages instantly, or combine PDFs, all in just a few clicks.",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Polymorph",
+        "title": "Polymorph",
+        "description": "A one stop shop for all your image conversion needs, for frontend devs",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=MailMan",
+        "title": "MailMan",
+        "description": "Sending emails can be a time-consuming and tedious task, especially when sending messages to a large group of recipients. Mailman is a mass email sending tool that can help streamline this process, sa",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Photon",
+        "title": "Photon",
+        "description": "Photon is a cross-platform file-transfer application built using flutter. It uses http to transfer files between devices. You can transfer files between devices that run Photon.",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Mail%20View",
+        "title": "Mail View",
+        "description": "A snappy minimal mail UI client that:\n- Exposes a RESTful interface that maybe used to extend the client/interact with it in a more user friendly manner\n- Does not use the standard `mbox`, `maildir` f",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Lama2",
+        "title": "Lama2",
+        "description": "Lama2 is a plain-text powered API client/manager. It is a FOSS replacement for tools such as Postman/Insomnia, with a git-oriented workflow. Lama2 arguably has one of the cleanest syntax for API specs",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Online%20Shopping%20website",
+        "title": "Online Shopping website",
+        "description": "Scalable online shopping website using python and Django.",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Codehere",
+        "title": "Codehere",
+        "description": "Codehere is a learning platform which helps you to take your basic coding skill to the application level.",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Project%20Management%20System",
+        "title": "Project Management System",
+        "description": "Seiri is an Open Source Project Management System which is a web-based tool designed for managing projects, tasks, and resources. This project management system is designed to be open source, customiz",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Code%20Snippet%20Manager",
+        "title": "Code Snippet Manager",
+        "description": "It allows users to quickly retrieve and insert commonly used code snippets into their current projects, saving time and effort.\n\n",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Cherrify",
+        "title": "Cherrify",
+        "description": "Contributing to a open source charity platform based in Himachal Pradesh",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Calculator",
+        "title": "Calculator",
+        "description": "Works similar to the normal calci for n inputs without any declaration of size ",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=FinTrack",
+        "title": "FinTrack",
+        "description": "the open-source tool for pixel-perfect website migrations. Compare screenshots to achieve a perfect match when migrating to a new stack or spotting differences in similar web pages.",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Credit%20Card%20fraud%20detection",
+        "title": "Credit Card fraud detection",
+        "description": "This is a basic method of detecting fraud in credit card transactions through the various identification markers present.",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=aicombinator",
+        "title": "aicombinator",
+        "description": "This is a product that lets you automate complex online tasks across multiple websites and webapps by describing them in natural language. \n\nFor example: \"Register myshop.com on Google Domains. Then s",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=She%20can",
+        "title": "She can",
+        "description": "A platform for womens to empower her mental health by monitoring and also develop her skills in three concepts of learning which is learn from expertise, learn from intraction and learn from experienc",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Awesome_food",
+        "title": "Awesome\\_food",
+        "description": "we tried to clone the modern food websites.",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Flicker",
+        "title": "Flicker",
+        "description": "Flicker is a video editor app that allows users to create stunning screencasts from their recordings. With a user-friendly interface and a variety of templates, users can easily customize their videos",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Crop%20detection%20and%20identification",
+        "title": "Crop detection and identification",
+        "description": "A machine learning project to detect crops and weeds in an agricultural field and provide appropriate data for supplying needed fertilizers and nutrients for the plants.",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Unearthly",
+        "title": "Unearthly",
+        "description": "A Company Which Strives to Provide solutions on Daily basis Problems.",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Home%20Assistant",
+        "title": "Home Assistant",
+        "description": "Home Assistant is a super well known Open Source Home Automation System 🏡💫\nWe'd like to bring a fresh new touch to the IDEA of Home Automation, with focus on making a personal statement. 😎\n",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=UNDERGROUND%20CABLE%20FAULT%20DETECTION",
+        "title": "UNDERGROUND CABLE FAULT DETECTION",
+        "description": "Overcoming with one technical solution to detect the faults which are striking in Underground cables with the help of in-build ADC (Analog to Digital Converter) of the Raspberry pi Pico controller kit",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Snappy%20-%20Screen%20Recorder%20for%20Chrome",
+        "title": "Snappy - Screen Recorder for Chrome",
+        "description": "Screen Recorder extension for Chrome like Loom (https://www.loom.com)\nFeatures\n\\* Users will be able to capture full screen and also their camera which will be displayed as an overlay over the screen\n",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=UNIVERSITY%20DATABASE",
+        "title": "UNIVERSITY DATABASE",
+        "description": "University database have two main entites with STUDENT and FACULTY.Each entity have different attributes like id,name,phone number etc..\nSearching of the required data is available,updating the data i",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=wild%20guide",
+        "title": "wild guide",
+        "description": "This is an application which is really helpful for adventure lovers, who go for trekking in the wild. It detects the plants and gives its details which may be very helpful for trekkers.",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=OpenBadgX",
+        "title": "OpenBadgX",
+        "description": "An Open Source web app that allow you to issue personalized and verifiable certificates and badges in ease. Includes end-to-end functionality for awarding event/course certificates from template creat",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=GrieveBin",
+        "title": "GrieveBin",
+        "description": "A student's life is often considered as the time he/she develops, learns new things, gets experiences and along with it, he/she goes through a variety of grievances be it financial, institutional, per",
+        "likes": 1
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=API%20Dash",
+        "title": "API Dash",
+        "description": "API Dash is a beautiful open-source cross-platform HTTP Client that can help you explore APIs.",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Project%20Manager",
+        "title": "Project Manager",
+        "description": "A web app that helps the project manager to keep track of the team members' progress and find the best path to approach a project .",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Halo",
+        "title": "Halo",
+        "description": "Simple, but revolutionary.",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Contributing%20to%20React-Play",
+        "title": "Contributing to React-Play",
+        "description": "Contributions to partner projects react-play and learn-awesome",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=OCaml-Multicore:%20Lockfree%20data%20structures",
+        "title": "OCaml-Multicore: Lockfree data structures",
+        "description": "Lockfree data structures in OCaml Multicore",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Cloudbase",
+        "title": "Cloudbase",
+        "description": "Simple way to deploy and monitor applications and databases on cloud",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Note%20Everything",
+        "title": "Note Everything",
+        "description": "Free and open source alternative for notepad with much added features .",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Esurio%20Serpens",
+        "title": "Esurio Serpens",
+        "description": "Our goal is to control a snake and eat as many food items as possible without running into any obstacles.",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=HANGMAN-GAME",
+        "title": "HANGMAN-GAME",
+        "description": "Hangman is a word-guessing game where the user has to use his/her wits to figure out the word",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Park",
+        "title": "Park",
+        "description": "Contributes to vaishakh3/Lipsum.",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=OpenSource%20Password%20Manager",
+        "title": "OpenSource Password Manager",
+        "description": "Password Generation | Encryption | Browser Integration | Opensource",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=%E2%8C%AFGoDownloader",
+        "title": "⌯GoDownloader",
+        "description": "As the name of the project suggests it's a download manager that uses Golang.\n\n",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Agriculture",
+        "title": "Agriculture",
+        "description": "We r making which help the farmers in all kinds of way like providing suitable information regarding the crops,fertilizers and pesticides and helping the farmers to get the equipments in suitable pric",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=SyncVid",
+        "title": "SyncVid",
+        "description": "Group sync play video on any web page",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Emergency%20response%20system",
+        "title": "Emergency response system",
+        "description": "A graphical interface for easily reporting emergencies such as accidents,fires etc more easily and efficiently.\nAlerts all departments necessary and shows the details in a visually mapped way",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Suraksh",
+        "title": "Suraksh",
+        "description": "The goal of this project is to build an anonymous reporting system against drugs and drug trafficking. The system will be built as a web app, which can also be easily converted to a mobile app. The sy",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=IOT%20Industry%20Protection%20System%20Arduino",
+        "title": "IOT Industry Protection System Arduino",
+        "description": "The IOT industry protection system using Arduino is a system designed to protect industries from losses due to accidents using Internet of things",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Adding%20QUIC%20as%20transport%20for%20rumqtt",
+        "title": "Adding QUIC as transport for rumqtt",
+        "description": "QUIC or RFC 9000 solves some interesting challenges that have great prospect in solving the problems in IoT networks. rumqtt is a pure rust implementation of the MQTT protocol, by adding support for Q",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Backtesting_Stocks",
+        "title": "Backtesting\\_Stocks",
+        "description": "Backtesting historical stock data.",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=omnichannel%20commerce%20with%20Frappe",
+        "title": "omnichannel commerce with Frappe",
+        "description": "All-in-one commerce platform\nSell anywhere you want from one platform.\nFrom Direct2Customer to retail to Business2Business to social media, sell across every channel and market—from one dynamic platfo",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=The-IoT-Project",
+        "title": "The-IoT-Project",
+        "description": "Self-hosted, lightweight IoT backend platform for managing IoT hardware devices with device monitoring, data collection and more inspired by Firebase.",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Banking%20system",
+        "title": "Banking system",
+        "description": "Internet is being widely used as means of communication and referred as window to the world. People now rely on the internet to search for information, to purchase merchandise and to be informed of di",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Artessa",
+        "title": "Artessa",
+        "description": "Artessa is a graphic design platform that allows users to create a wide variety of visual content, including social media graphics, presentations, posters, flyers, and more. An app like this would lik",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=WebSec",
+        "title": "WebSec",
+        "description": "Improving website security using extension ",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Disaster%20relief",
+        "title": "Disaster relief",
+        "description": "A disaster relief app is designed to address a specific problem related to disaster relief and preparedness. The app provides a unique and innovative solution that can help individuals and communities",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=%22OrbitClean%22%20-%20A%20Space%20Debris%20Cleaning%20App",
+        "title": "\"OrbitClean\" - A Space Debris Cleaning App",
+        "description": "\"OrbitClean\" is a mobile application designed to help clean up space debris and prevent collisions with active spacecraft. ",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=demo",
+        "title": "demo",
+        "description": "deml",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Simple%20cals",
+        "title": "Simple cals",
+        "description": "simple calculator ",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Contributing%20to%20Listmonk%20API%20Docs",
+        "title": "Contributing to Listmonk API Docs",
+        "description": "Create a swagger collection for Listmonk APIs",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Bike%20Rental%20system",
+        "title": "Bike Rental system",
+        "description": "1.1 Purpose\nFrom the BikeBook people would be able to rent the bike from a specific renting point. And they can rent the bike for that specific time period and after their use, they can submit the bik",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Seyrek",
+        "title": "Seyrek",
+        "description": "Seyrek is an open source website that gives information about hackathons and other tech events. Here you can ask and solve your questions and answers. It also helps you share your experiences and let ",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Train%20Reservations",
+        "title": "Train Reservations",
+        "description": "This code was created in-order to show a small demo about how the train ticket reservations can be done in a basic c programming language. This comprises of reservations, cancellations and to display ",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Pomodoro%20Productive%20web%20app",
+        "title": "Pomodoro Productive web app",
+        "description": "Pomodoro apps are digital tools that help individuals apply the Pomodoro Technique to their work.",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Screenshots",
+        "title": "Screenshots",
+        "description": "Freedom from the conventional way of writing notes.",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Digital%20Padhayi",
+        "title": "Digital Padhayi",
+        "description": "It's a website where students can attend their online classes on time.The students can join the online class through the dash board where timetable is displayed.They can join the class by just clickin",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Renarration%20Web",
+        "title": "Renarration Web",
+        "description": "Renarration Web is a set of browser based tools for creation of alternative content to existing websites so that the pages are accessible to low-literate people. ",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=chat%20bot%20SL",
+        "title": "chat bot SL",
+        "description": "Chat Bot project is a desktop application which is developed in Python platform",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=SAAS%20Boilerplate",
+        "title": "SAAS Boilerplate",
+        "description": "SAAS Boilerplate in Python and FastAPI to build micro-saas software quickly.",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Food%20crop%20auction%20system",
+        "title": "Food crop auction system",
+        "description": "An open source website for farmers and traders to bid food crops.",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Face-Recognition-based-Attendance-System",
+        "title": "Face-Recognition-based-Attendance-System",
+        "description": "This project of machine learning Face Recognition based Attendance System. As the name says this project takes attendance using biometrics (in this case face).",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=ShapeShift",
+        "title": "ShapeShift",
+        "description": "A platform user come and make there digital avatar by minimum input",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=MyKanban",
+        "title": "MyKanban",
+        "description": "A simple task management application ",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=e-PAN%20QR%20Reader",
+        "title": "e-PAN QR Reader",
+        "description": "A specification and library to read e-PAN QR codes, created by reverse-engineering the Android mobile application.",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Implicit",
+        "title": "Implicit",
+        "description": "Adding newer collaborative filtering algorithm to the python package implicit ",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=TIC_TAC_TOE",
+        "title": "TIC\\_TAC\\_TOE",
+        "description": "A fun game to relax and enjoy few moments with your close onws!!",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Chit%20Funds:%20A%20blockchain%20based%20model%20to%20enhance%20trust%20and%20unlock%20value%20creation",
+        "title": "Chit Funds: A blockchain based model to enhance trust and unlock value creation",
+        "description": "Chit funds as a financial instrument have many strengths and weaknesses (in operations and\nadministration). Blockchain can be leveraged to address many of the challenges, which would\nreduce the inform",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Automated-Data-Preprocessing",
+        "title": "Automated-Data-Preprocessing",
+        "description": "This Project aims at automating the entire data preprocessing workflow. This helps ML Engineers by allowing them to focus on formulating algorithms for training of ML models with improved accuracy rat",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=wac",
+        "title": "wac",
+        "description": "Run and monitor workflows as code from the terminal",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Spotify",
+        "title": "Spotify",
+        "description": "We tried to clone Spotify website ",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Mock%20Stock",
+        "title": "Mock Stock",
+        "description": "A stock market trading simulator",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Linux%20UI%20Redesign",
+        "title": "Linux UI Redesign",
+        "description": "The linux UI redesign project is a comprehensive effort to overhaul the user interface of linux operating system.",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=TIDBITS",
+        "title": "TIDBITS",
+        "description": "TIDBITS is a machine-learning based model that makes use of CNN algorithm for detection of tumors in the MRI scans of the human brain. This brain tumor detection system helps in aiding towards improve",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=think_tank",
+        "title": "think\\_tank",
+        "description": "think\\_tank is a web based game which allows users to create a quiz and allow their friends to participate and play the game. This webapp would be built using MERN stack. This webapp would help college",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Vegitable%20cart%20-%20React",
+        "title": "Vegitable cart - React",
+        "description": "It is an UI for a cart where we can see a lot of vegetables. It is like a vegetable online store. I fetched the vegetable details from an API and showed them to the frontend. The UI is created using R",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Project%20x",
+        "title": "Project x",
+        "description": "Project x is an open source project by Pro hub.This is one of the good idea for start up.",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=LED%20Badge%20Programmer",
+        "title": "LED Badge Programmer",
+        "description": "An LED badge is a fun way to introduce yourself and make new friends. What's the bummer ? They come with tools for .... Windows. Not Linux. Hence this project!",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=No%20Network%20Mobile%20Number%20Authentication",
+        "title": "No Network Mobile Number Authentication",
+        "description": "Supposing there is no mobile network in particular area but there is internet access (Wi-Fi/LAN) and we need an OTP for accessing a particular application (Android/Web).\nHow can we authenticate mobile",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Contributing%20to%20accessibility%20for%20listmonk",
+        "title": "Contributing to accessibility for listmonk",
+        "description": "As part of hackthon , need to work on accessibility for listmonk",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=OpenMinds",
+        "title": "OpenMinds",
+        "description": "A mental health social media app providing a safe space for discussing issues, connecting with others, and accessing resources.",
+        "likes": 0
+    },
+    {
+        "url": "https://fossunited.org/fosshack/2023/project?project=Papad%20-%20media%20tube%20with%20fragment%20annotator",
+        "title": "Papad - media tube with fragment annotator",
+        "description": "Papad (open.janastu.org/projects/papad) is a community media archiving platform that encourages media fragment annotations and hyper-media networking.\n\nFor the FOSS Hackathon, we can set up challenges",
+        "likes": 0
+    }
+]
