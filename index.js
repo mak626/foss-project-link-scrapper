@@ -5,10 +5,8 @@ const HTMLParser = require("node-html-parser");
 const fetchProjects = async () => {
   const api = await axios.get("https://fossunited.org/fosshack/2023/projects");
   const html = HTMLParser.parse(api.data);
-
-  const data = html
-    .querySelectorAll(".list-group-item")
-    .map((e) => {
+  const data = await Promise.all(
+    html.querySelectorAll(".list-group-item").map(async (e) => {
       const titleHtml = e.querySelector(".row");
       const url =
         "https://fossunited.org" +
@@ -17,22 +15,24 @@ const fetchProjects = async () => {
         .querySelector(".d-inline-block")
         ?.innerText.replace("📺️", "")
         .trim();
-      const likes = Number.parseInt(
-        titleHtml
-          .querySelector("span.badge")
-          ?.innerText.replace("❤️️️️", "")
-          .trim()
-      );
-      const description = e.querySelector("p")?.innerText;
 
-      return { url, title, description, likes };
+      const projectHtml = HTMLParser.parse((await axios.get(url)).data);
+      const members = projectHtml
+        .querySelectorAll("#members .list-group-item")
+        .map((m) => {
+          const name = m.innerText.trim();
+          return { name };
+        });
+
+      return { url, title, members };
     })
-    .sort((a, b) => b.likes - a.likes);
+  );
 
-  const csv = [["title", "url", "description", "likes"]];
+  const csv = [["title", "url", "members"]];
 
   data.forEach((e) => {
-    csv.push([e.title, e.url, JSON.stringify(e.description), e.likes]);
+    const members = e.members.map((m) => m.name).join(", ");
+    csv.push([e.title, e.url, members]);
   });
 
   fs.writeFileSync("./out/data.json", JSON.stringify(data, null, 4));
